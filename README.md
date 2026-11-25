@@ -18,6 +18,13 @@ Resolver esses exercícios ajudou a enxergar a programação além de apenas "fa
 - Como dividir responsabilidades entre classes para evitar códigos longos, rígidos ou difíceis de manter;
 - Como herança, interfaces e **Design Patterns** facilitam a extensão do sistema sem quebrar o que já existe;
 - A importância de testar cenários diferentes e refatorar a modelagem quando surgem novas regras de negócio.
+- 
+ex1
+<img width="1785" height="890" alt="image" src="https://github.com/user-attachments/assets/50698afa-0445-45d2-b0a0-6a015ea6ae2b" />
+
+ex2
+<img width="1747" height="901" alt="image" src="https://github.com/user-attachments/assets/f8ca70c4-48f3-4fc9-a89c-1a29c023fc8d" />
+
 
 ## Como Executar
 
